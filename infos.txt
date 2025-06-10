@@ -1,0 +1,6 @@
+Tabela de Produto:
+- ID (IDENTITY, PRIMARY KEY)
+- NomeProduto (VARCHAR)
+- Descricao (VARCHAR)
+- Preco (DECIMAL)
+- ImageURL (VARCHAR)
