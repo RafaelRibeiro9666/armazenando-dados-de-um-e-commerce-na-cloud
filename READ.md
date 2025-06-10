@@ -46,9 +46,9 @@ Para configurar e rodar este projeto localmente, siga os passos abaixo:
     ```bash
     python -m venv venv
     # No Windows:
-    .\venv\Scripts\Activate.ps1
+    .\venv\Scripts\activate
     # No macOS/Linux:
-    source venv/bin/Activate.ps1
+    source venv/bin/activate
     ```
 
 3.  **Instale as dependências:**
